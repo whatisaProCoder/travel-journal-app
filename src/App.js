@@ -13,6 +13,8 @@ function App() {
   return (
     <div>
       <Navbar />
+      <Navbar />
+      <Navbar />
       {cards}
       <Footer />
     </div>
